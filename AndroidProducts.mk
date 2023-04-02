@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_j2y18lte.mk
+    $(LOCAL_DIR)/arrow_j2y18lte.mk
